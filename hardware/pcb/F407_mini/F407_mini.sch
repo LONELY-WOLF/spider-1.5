@@ -17,35 +17,35 @@ $EndDescr
 $Comp
 L Connector_Generic:Conn_02x10_Odd_Even J21
 U 1 1 5E1B89D1
-P 10000 1950
-F 0 "J21" H 10050 1225 50  0000 C CNN
-F 1 "Conn_02x10_Odd_Even" H 10050 1316 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical" H 10000 1950 50  0001 C CNN
-F 3 "~" H 10000 1950 50  0001 C CNN
-	1    10000 1950
-	-1   0    0    1   
+P 9900 1950
+F 0 "J21" H 9950 1225 50  0000 C CNN
+F 1 "Conn_02x10_Odd_Even" H 9950 1316 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical" H 9900 1950 50  0001 C CNN
+F 3 "~" H 9900 1950 50  0001 C CNN
+	1    9900 1950
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_02x18_Odd_Even J19
 U 1 1 5E1BA0A2
-P 7450 2350
-F 0 "J19" H 7500 1225 50  0000 C CNN
-F 1 "Conn_02x18_Odd_Even" H 7500 1316 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x18_P2.54mm_Vertical" H 7450 2350 50  0001 C CNN
-F 3 "~" H 7450 2350 50  0001 C CNN
-	1    7450 2350
-	-1   0    0    1   
+P 7350 2350
+F 0 "J19" H 7400 1225 50  0000 C CNN
+F 1 "Conn_02x18_Odd_Even" H 7400 1316 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x18_P2.54mm_Vertical" H 7350 2350 50  0001 C CNN
+F 3 "~" H 7350 2350 50  0001 C CNN
+	1    7350 2350
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_02x18_Odd_Even J20
 U 1 1 5E1BD5D3
-P 8750 2350
-F 0 "J20" H 8800 1225 50  0000 C CNN
-F 1 "Conn_02x18_Odd_Even" H 8800 1316 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x18_P2.54mm_Vertical" H 8750 2350 50  0001 C CNN
-F 3 "~" H 8750 2350 50  0001 C CNN
-	1    8750 2350
-	-1   0    0    1   
+P 8650 2350
+F 0 "J20" H 8700 1225 50  0000 C CNN
+F 1 "Conn_02x18_Odd_Even" H 8700 1316 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x18_P2.54mm_Vertical" H 8650 2350 50  0001 C CNN
+F 3 "~" H 8650 2350 50  0001 C CNN
+	1    8650 2350
+	1    0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR0101
