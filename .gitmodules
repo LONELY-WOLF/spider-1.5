@@ -1,0 +1,3 @@
+[submodule "firmware/legacy"]
+	path = firmware/legacy
+	url = https://github.com/LONELY-WOLF/spider.git
